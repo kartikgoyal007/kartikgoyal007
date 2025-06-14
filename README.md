@@ -1,21 +1,23 @@
-# 🧠 Kartik Goyal 007
-> 16 y/o | Cybersecurity Student | CTF player  
-> Obsessed with code, packets, and exploits.
+<h1 align="center">⚔️ Kartik | CyberSec Rookie Turned Beast</h1>
+<h3 align="center">💻 Python | 🧠 Bug Bounties | 🔍 TryHackMe | 🚀 Terminal Lord</h3>
 
-### 🛠️ Tools
-- 🐧 Linux | 🐍 Python | 🔍 Nmap | 🧪 Burp Suite  
-- ⚙️ Wireshark | GitHub | TryHackMe  
-
-### 🚀 Goals
-- ✅ Become a Recon god  
-- ✅ Win CTFs  
-- ✅ Learn Exploit Dev  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF91&width=435&lines=Living+in+Linux+24%2F7;Pwn+CTFs+like+a+beast;Recon+scripts+on+repeat;Building+a+SOC+in+my+closet;Red+Team+Vibes+%F0%9F%94%AB" alt="Typing SVG" />
+</p>
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=1000&color=F74CFF&center=true&vCenter=true&width=500&lines=CTFs+are+my+gym;Python+is+my+weapon;Wireshark+is+my+mirror)
+### 🧠 About Me
+```bash
+> whoami
+kartikgoyal007
 
----
+> echo "I'm a 16y/o cybersec student grinding THM, HTB & scripts daily."
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kartikgoyal007&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
+> echo "My terminal never sleeps 🧑‍💻"
+⚙️ Tools I Use
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,nmap,wireshark,burpsuite,github&theme=dark" /> </p>
+🔥 GitHub Stats
+<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kartikgoyal007&show_icons=true&theme=radical" /> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgoyal007&layout=compact&theme=radical" /> </p>
+🔥 GitHub Activity Snake (⚠️ setup guide below)
+<p align="center"> <img src="https://raw.githubusercontent.com/kartikgoyal007/kartikgoyal007/output/github-contribution-grid-snake-dark.svg" /> </p>
